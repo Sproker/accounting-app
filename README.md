@@ -15,5 +15,5 @@ If PHP is not installed on you machine, refer here: https://www.php.net/manual/e
 * Data is fetched online, which ensures future compatability.
 * Inputs are validated along with dataset connection and appropriate error messages are provided if something goes wrong.
 * When the reminder date falls on a non-working day, the app will look for previous dates until it finds a working day for the reminder.
-* Dates from the dataset are converted to Estonian format in the final CSV file.
-* BOM is added to ensure correct display of Estonian characters in Excel.
+* Dataset dates are converted to the Estonian date format in the final CSV file.
+* BOM ensures the correct display of Estonian characters in Excel.
