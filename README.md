@@ -1,6 +1,6 @@
 # Accounting app
 
-A simple app, which fetches data from `https://riigipühad.ee`, checks if the payment date is a working day and provides reminders for accountants, all in the form of a CSV file.
+A simple app, which fetches data from https://riigipühad.ee, checks if the payment date is a working day and provides reminders for accountants, all in the form of a CSV file.
 
 ## Installation
 
