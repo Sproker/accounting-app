@@ -6,7 +6,7 @@ A simple app, which fetches data from https://riigipühad.ee, checks if the paym
 
 Download the project, open a new terminal in the root directory and run: `php palgad.php {year}`, where the {year} should be replaced with the desired year. 
 
-If PHP is not installed on you machine, refer here: https://www.php.net/manual/en/install.php
+If PHP is not installed on your machine, refer here: https://www.php.net/manual/en/install.php
 
 ## Features:
 
